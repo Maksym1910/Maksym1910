@@ -5,8 +5,8 @@ Job Position: Developer \
 Project Roles: Frontend Developer \
 Customer: Software & Hi-Tech \
 Project: [ELAT-DEV](https://brandgility.com/), Brand Management Software \
-Participation
- Developing user interface functionality
+Participation:
+ * Developing user interface functionality
  * Developing UI library
  * Maintaining already exisitng functionality
  * Maintaining app with unit and integration tests
@@ -22,7 +22,7 @@ Job Position: Key Developer \
 Project Roles: Frontend Developer \
 Customer: Software & Hi-Tech \
 Project: [PANDADOC](https://www.pandadoc.com/), Engineering services for PandaDoc \
-Participation \
+Participation: 
  * Boosting web application performance
  * Improving lighthouse metrics
  * Taking part in estimation
