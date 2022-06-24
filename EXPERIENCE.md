@@ -17,6 +17,7 @@ Participation:
 Team: 2 Team Leads (Frontend and Backend), 3 Frontend Developers, 4 Backend Developers, 5 QA, 2 BA, 1 PM \
 Technologies: ReactJS, JavaScript, GraphQL (Apollo), Redux, CSS, Webpack, Jest
 
+-----------------
 
 EPAM SYSTEMS \
 Job Position: Key Developer \
