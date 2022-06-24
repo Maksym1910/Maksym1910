@@ -1,4 +1,4 @@
-<code>⚪ Company: EPAM Systems</code>
+<code>⚪ Company: [EPAM Systems](https://careers.epam.ua/company)</code>
 <code>🎓 Student: KPI / IP-93</code>
 <code>👷 Speciality: Software engineer / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
