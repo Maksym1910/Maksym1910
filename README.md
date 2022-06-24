@@ -2,7 +2,6 @@
 <code>🎓 Student: KPI / IP-93</code>
 <code>👷 Speciality: Software engineer / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: ReactJS</code>
