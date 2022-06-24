@@ -12,8 +12,8 @@ Participation:
  * Maintaining app with unit and integration tests
  * Presenting features demos to the client
  * Taking part in estimation
- * Taking part in code reviewing
-Team: 2 Team Leads (Frontend and Backend), 3 Frontend Developers, 4 Backend Developers, 5 QA, 2 BA, 1 PM
+ * Taking part in code reviewing \
+Team: 2 Team Leads (Frontend and Backend), 3 Frontend Developers, 4 Backend Developers, 5 QA, 2 BA, 1 PM \
 Technologies: ReactJS, JavaScript, GraphQL (Apollo), Redux, CSS, Webpack, Jest
 
 
@@ -26,6 +26,6 @@ Participation:
  * Boosting web application performance
  * Improving lighthouse metrics
  * Taking part in estimation
- * Taking part in code reviewing
+ * Taking part in code reviewing \
 Team: 4 Frontend Developers, 1 Backend Developers, 1 QA, 1 PM \
 Technologies: ReactJS, JavaScript, Redux, CSS, Webpack, Jest
