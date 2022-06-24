@@ -1,7 +1,6 @@
 # Experience
 
-EPAM SYSTEMS
-<code>⚪ Company: EPAM Systems</code>
+## <code>EPAM SYSTEMS</code>
 <code>Job Position: Developer</code>
 <code>Project Roles: Frontend Developer</code>
 <code>Customer: Software & Hi-Tech</code>
