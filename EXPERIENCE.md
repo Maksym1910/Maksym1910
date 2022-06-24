@@ -1,11 +1,11 @@
 # Experience
 
 ## <code>EPAM SYSTEMS</code>
-<code>Job Position: Developer</code>
-<code>Project Roles: Frontend Developer</code>
-<code>Customer: Software & Hi-Tech</code>
-<code>Project: [ELAT-DEV](https://brandgility.com/), Brand Management Software</code>
-<code>Participation:</code>
+<code>Job Position: Developer</code> \
+<code>Project Roles: Frontend Developer</code> \
+<code>Customer: Software & Hi-Tech</code> \
+<code>Project: [ELAT-DEV](https://brandgility.com/), Brand Management Software</code> \
+<code>Participation:</code> \
  * Developing user interface functionality
  * Developing UI library
  * Maintaining already exisitng functionality
