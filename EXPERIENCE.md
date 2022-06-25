@@ -22,7 +22,7 @@
 <strong>EPAM SYSTEMS</strong> \
 <strong>Job Position:</strong> Key Developer \
 <strong>Project Roles:</strong> Frontend Developer \
-<strong>Customer:/strong> Software & Hi-Tech \
+<strong>Customer:</strong> Software & Hi-Tech \
 <strong>Project:</strong> [PANDADOC](https://www.pandadoc.com/), Engineering services for PandaDoc \
 <strong>Participation:</strong> 
  * Boosting web application performance
