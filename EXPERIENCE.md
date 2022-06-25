@@ -1,6 +1,6 @@
 # Experience
 
-EPAM SYSTEMS \
+<strong>EPAM SYSTEMS</strong> \
 Job Position: Developer \
 Project Roles: Frontend Developer \
 Customer: Software & Hi-Tech \
